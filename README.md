@@ -1,10 +1,10 @@
-#Groove It - An online Dance class website
+# Groove It - An online Dance class website
 Groove It is a site offering online dance classes dedicated to learning,without pressure and for everyone. A complete and varied course schedule that offers all disciplines for all ages and all levels.
-#Technologies Used
-##Languages USEd
+# Technologies Used
+## Languages Used
 1. HTML5
 2. CSS3
-##Frameworks,Libraries and Programs Used
+## Frameworks,Libraries and Programs Used
 [Bootstrap 4.2.1](https://getbootstrap.com/docs/4.2/getting-started/introduction/):
 Used for responsiveness and styling of the website
 [Fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2&q=facebook&m=free):
