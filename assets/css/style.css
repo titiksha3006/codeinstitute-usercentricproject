@@ -27,6 +27,7 @@ a h1{
     padding-bottom: 0;
     font-size: 280%;
     line-height: 75px;
+    font-weight: 700;
 }
 #logomark{
     font-style: italic;
@@ -35,7 +36,7 @@ a h1{
     margin-top: 0;
     padding-top: 0;
     font-size: 90%;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
     margin-bottom: 5px;
     padding-bottom: 5px;
 
@@ -64,9 +65,180 @@ a h1{
 #menu a:hover{
     border-bottom: 1px solid #2b013f;
 }
-
+.active{
+    border-bottom: 1px solid #3a3a3a;
+}
 hr{
     border-top: 1px solid #3a3a3a;
     width: 100%;
     margin: 5px 0;
 }
+
+
+#danceimg-1 {
+
+    background : url("../images/danceimg-1.jpg")no-repeat left center;
+    height:370px;
+    width: 49%;
+    border: 1px solid #2b013f ;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding:0;
+    float: left;
+    border-radius: 2%;
+    clear: both;
+    position: relative;
+    
+
+}
+.right-about {
+    padding-top: 30px;
+    width: 45%;
+    float: right;
+}
+
+.right-about-heading {
+    width: 80%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    margin-top: 15px;
+}
+
+.right-about-heading p {
+    text-align: center;
+}
+
+.right-about-heading h3 {
+    text-align: center;
+    font-family: Cormorant Garamond;
+    font-weight: 700;
+}
+
+#danceimg-2 {
+
+    background : url("../images/danceimg-2.jpg")no-repeat left center;
+    height: 370px;
+    width: 49%;
+    border: 1px solid #2b013f ;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding:0;
+    float: right;
+    border-radius: 2%;
+    margin-top: 1%;
+    clear: both;
+    position: relative;
+
+}
+
+#left-about {
+    padding-top: 30px;
+    padding-left: 40px;
+    width: 49%;
+    float: left;
+}
+.left-about-heading {
+    width: 80%;
+    float: center;
+    line-height: 25px;
+    clear: both;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+
+.left-about-heading ul {
+    
+    list-style-type: square;
+}
+
+.left-about-heading h3 {
+    text-align: center;
+    font-family: Cormorant Garamond;
+    font-weight: 700;
+}
+
+#danceimg-3 {
+
+    background : url("../images/danceimg-3.jpg")no-repeat left center;
+    height: 370px;
+    width: 49%;
+    border: 1px solid #2b013f ;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding:0;
+    float: left;
+    border-radius: 2%;
+    margin-top: 1%;
+    clear: both;
+    position: relative;
+    margin-bottom: 13px;
+
+}
+
+
+footer{
+    height: 120px;
+    margin-top: 25px;
+    padding-top: 25px;
+}
+
+
+.contacts{
+    display : table;  /* Allow the centering to work */
+    margin: 0 auto;
+}
+
+ul.address {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+    padding-left:0;
+    margin-left: 0;
+	}
+	ul.address li {
+		display: inline-block;
+        padding-left: 10px;
+        padding-right: 10px;
+	}
+
+    ul.address button{
+        padding: 0;
+        border: none;
+        background: none;
+        font-weight: 700;
+       
+        font-family: Exo;
+    }
+
+    ul.address a {
+
+        text-decoration: none;
+        color: inherit;
+
+    }
+    ul.address a:hover{
+        border-bottom: 1px solid #2b013f;
+    }
+
+.social-networks{
+    text-align: center;
+    margin-top: 0px;
+    padding: 0 auto;
+
+}
+
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 140%;
+    margin: 1%;
+    padding: 2%;
+    color: #3a3a3a;
+    float: center;
+}
+
+
