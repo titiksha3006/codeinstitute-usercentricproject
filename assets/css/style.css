@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@600&family=Lobster&display=swap|Exo:400,500,600,700');
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body{
+    font-family: Exo, sans-serif;
+    color: #1d0101;
+    background-image: linear-gradient(to right top, #eacec5, #e0bebd, #d3afb8, #c1a2b4, #ab96b1);
+}
+/*header*/
+
+#logo a{
+    text-decoration: none;
+    color: #290202;
+    }
+a h1{
+    font-style: italic;
+    font-family: Cormorant Garamond;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 0;
+    font-size: 280%;
+    line-height: 75px;
+}
+#logomark{
+    font-style: italic;
+    font-family: Cormorant Garamond;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 90%;
+    letter-spacing: 4px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+
+}
+
+#menu{
+    font-size: 110%;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+#menu li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-top: 10px;
+    
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #2b013f;
+}
+
+hr{
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
