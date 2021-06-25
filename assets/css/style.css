@@ -133,7 +133,7 @@ hr{
 
 }
 
-#left-about {
+.left-about {
     padding-top: 30px;
     padding-left: 40px;
     width: 49%;
@@ -241,4 +241,53 @@ ul.address {
     float: center;
 }
 
+#danceimg-4 {
 
+    background : url("../images/danceimg-4.jpg")no-repeat left center;
+    height:330px;
+    width: 40%;
+    border: 1px solid #2b013f ;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding:0;
+    float: left;
+    border-radius: 2%;
+    clear: both;
+    position: relative;
+    
+
+}
+
+#danceimg-8 {
+
+    background : url("../images/danceimg-8.jpg")no-repeat left center;
+    height: 330px;
+    width: 49%;
+    border: 1px solid #2b013f ;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding:0;
+    float: right;
+    border-radius: 2%;
+    margin-top: 1%;
+    clear: both;
+    position: relative;
+
+}
+
+#danceimg-9 {
+
+    background : url("../images/danceimg-9.jpg")no-repeat left center;
+    height:330px;
+    width: 49%;
+    border: 1px solid #2b013f ;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding:0;
+    float: left;
+    border-radius: 2%;
+    clear: both;
+    position: relative;
+    
+
+}
