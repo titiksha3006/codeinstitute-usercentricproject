@@ -17,3 +17,8 @@ Groove It is a site offering online dance classes dedicated to learning,without 
    Github is the source code repository after the code is pushed from git.
 - [Balsamiq](https://balsamiq.com/wireframes/desktop/#):
    Used for creating the wireframe mockup for the website
+
+# Features
+* Navigation Bar
+   * Featured on all three pages, the full responsive navigation bar includes links to the Home page, Services ,Schedule and Register page and is identical in each page to allow for easy navigation.
+   * This section will allow the user to easily navigate from page to page across all devices      without having to revert back to the previous page via the ‘back’ button.
