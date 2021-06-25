@@ -116,6 +116,17 @@ hr{
     font-weight: 700;
 }
 
+.right-about-heading a {
+
+    text-decoration: none;
+    color: inherit;
+    font-family: Exo;
+    font-weight: 700;
+    text-align: center;
+    display:block;
+
+}
+
 #danceimg-2 {
 
     background : url("../images/danceimg-2.jpg")no-repeat left center;
@@ -157,6 +168,17 @@ hr{
     text-align: center;
     font-family: Cormorant Garamond;
     font-weight: 700;
+}
+
+.left-about-heading a {
+
+    text-decoration: none;
+    color: inherit;
+    font-family: Exo;
+    font-weight: 700;
+    text-align: center;
+    display:block;
+
 }
 
 #danceimg-3 {
@@ -243,9 +265,9 @@ ul.address {
 
 #danceimg-4 {
 
-    background : url("../images/danceimg-4.jpg")no-repeat left center;
-    height:330px;
-    width: 40%;
+    background : url("../images/danceimg-4a.jpg")no-repeat left center;
+    height:370px;
+    width: 49%;
     border: 1px solid #2b013f ;
     margin-left: 3px;
     margin-right: 3px;
@@ -253,15 +275,14 @@ ul.address {
     float: left;
     border-radius: 2%;
     clear: both;
-    position: relative;
-    
+    position: relative;  
 
 }
 
-#danceimg-8 {
+#danceimg-5 {
 
-    background : url("../images/danceimg-8.jpg")no-repeat left center;
-    height: 330px;
+    background : url("../images/danceimg-5.jpg")no-repeat left center;
+    height: 370px;
     width: 49%;
     border: 1px solid #2b013f ;
     margin-left: 3px;
@@ -275,10 +296,10 @@ ul.address {
 
 }
 
-#danceimg-9 {
+#danceimg-6 {
 
-    background : url("../images/danceimg-9.jpg")no-repeat left center;
-    height:330px;
+    background : url("../images/danceimg-6.jpg")no-repeat left center;
+    height:370px;
     width: 49%;
     border: 1px solid #2b013f ;
     margin-left: 3px;
@@ -289,5 +310,23 @@ ul.address {
     clear: both;
     position: relative;
     
+
+}
+
+#danceimg-7 {
+
+    background : url("../images/danceimg-7.jpg")no-repeat left center;
+    height: 370px;
+    width: 49%;
+    border: 1px solid #2b013f ;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding:0;
+    float: right;
+    border-radius: 2%;
+    margin-top: 1%;
+    clear: both;
+    position: relative;
+    margin-bottom: 4px;
 
 }
