@@ -357,7 +357,7 @@ ul.address {
 }
 
 @media screen and (min-width: 960px) {
-    @-webkit-keyframes floatText{
+    @keyframes floatText{
         from {
             text-indent: 960px;
         }
