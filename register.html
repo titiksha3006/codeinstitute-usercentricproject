@@ -30,42 +30,46 @@
      </nav>
      <hr/>
    </header> 
-   <section>
-	   <h3 id=disclaimer>Please enter your communication details below and we will get in touch with you shortly!!</h3>
-	   <form class="user-details">
-		   
-		<label for="fname">First Name:</label>
+   <section class="user-details">
+	   <h4 id=disclaimer>Please enter your communication details below and we will get in touch with you shortly!!</h4>
+	   <br/>
+     <form class="register">
+      <table id="table1"; cellspacing="5px" cellpadding="5%"; align="center"> 
+        <tr>    
+          <td  align="center" class="style1">   
+		<label for="fname" class="user-details">First Name:</label></td>
+		 
+		<td class="style1"><input type="text" name="fname" id="fname" required></td>
+    </tr>
+		<tr>    
+      <td  align="center" class="style1"> 
+		<label for="lname">Last Name:</label></td>
 		
-		<input type="text" name="fname" id="fname"><br/>
+		<td class="style1"><input type="text" name="lname" id="lname" required></td>
+    </tr>
+		<td  align="center" class="style1"><label for="email">Email Address:</label></td>
 		
-		<label for="lname">Last Name:</label>
+		<td class="style1"><input type="email" name="email" id="email" required></td>
+  </tr>
+	<tr>	
+  <td  align="center" class="style1"><label for="dob">Date Of Birth:</label></td>
 		
-		<input type="text" name="lname" id="lname"><br/>
+  <td class="style1"><input type="date" name="dob" id="dob"></td> 
+</tr>
 		
-		<label for="email">Email Address:</label>
+	
 		
-		<input type="email" name="email" id="email" required><br/>
+<tr>	
+  <td  align="center" class="style1"><label for="phone">Phone Number:</label></td>
 		
-		<label for="dob">Date Of Birth:</label>
-		
-		<input type="date" name="dob" id="dob"><br/>
-		
-		<label for="gender">Gender:</label>
-		
-		<select name="gender" id="gender">
-		<option selected>Male</option>
-		<option>Female</option>
-		<option>Other</option>
-		</select><br/>
-		
-		<label for="phone">Phone Number:</label>
-		
-		<input type="text" id="phone" name="phone"><br/>
-	    
-		<button id="submit" type="submit" value="submit">Lets Begin the Journey of Grooving together</button>
-		
+  <td class="style1"><input type="text" id="phone" name="phone"></td>
+  </tr>
+    </table>
+    <br/><button id="submit" type="submit" value="submit">Lets Begin the Journey of Grooving together</button>
 	   </form>
+     
    </section>
+   
    <footer>
      <div class="contacts">
        <ul class="address">
