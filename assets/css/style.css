@@ -152,7 +152,7 @@ hr{
 }
 .left-about-heading {
     width: 80%;
-    float: center;
+    
     line-height: 25px;
     clear: both;
     margin-bottom: 50px;
@@ -226,19 +226,15 @@ ul.address {
         padding-right: 10px;
 	}
 
-    ul.address button{
-        padding: 0;
-        border: none;
-        background: none;
-        font-weight: 700;
-       
-        font-family: Exo;
-    }
+    
 
     ul.address a {
 
         text-decoration: none;
         color: inherit;
+        font-weight: 700;
+       
+        font-family: Exo;
 
     }
     ul.address a:hover{
@@ -248,7 +244,7 @@ ul.address {
 .social-networks{
     text-align: center;
     margin-top: 0px;
-    padding: 0 auto;
+    padding: 0px;
 
 }
 
@@ -261,7 +257,7 @@ ul.address {
     margin: 1%;
     padding: 2%;
     color: #3a3a3a;
-    float: center;
+    
 }
 
 #danceimg-4 {
@@ -372,10 +368,7 @@ ul.address {
     }
 }
 
-.col-6 {
-    float: center;
-    
-}
+
 
 #table1{
     margin-left: auto;
