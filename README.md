@@ -1,5 +1,5 @@
 # Groove It - An online Dance class website
-Groove It is a site offering online dance classes dedicated to learning,without pressure and for everyone. A complete and varied course schedule that offers all disciplines for all ages and all levels.
+Groove It is a site offering online dance classes dedicated to learning,without pressure and for everyone. A complete and varied course that offers all disciplines for all ages and all levels.
 # Technologies Used
 ## Languages Used
 - HTML5
@@ -20,5 +20,5 @@ Groove It is a site offering online dance classes dedicated to learning,without 
 
 # Features
 * Navigation Bar
-   * Featured on all three pages, the full responsive navigation bar includes links to the Home page, Services ,Schedule and Register page and is identical in each page to allow for easy navigation.
+   * Featured on all three pages, the full responsive navigation bar includes links to the Home page, Services and Register page and is identical in each page to allow for easy navigation.
    * This section will allow the user to easily navigate from page to page across all devices      without having to revert back to the previous page via the ‘back’ button.
