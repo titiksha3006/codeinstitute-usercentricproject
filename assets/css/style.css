@@ -467,3 +467,14 @@ ul.address {
    
 }
 
+@media screen and (max-width: 1396px){
+    footer{
+        height: 30px;
+        margin-top: 25px;
+        padding-top: 25px;
+        position: relative;
+    }  
+   
+}
+
+
