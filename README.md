@@ -55,12 +55,13 @@ After correcting all the above mentioned errors the validator returned below :
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- The site was deployed to GitHub pages using netlify. The steps to deploy are as follows: 
+  - Connect your Netlify account to Github
+  - Select the repo to be published with Netlify
+  - Netlify automatically deploys the site once connected to Github page
+   
 
-The live link can be found here - 
+The live link can be found here - https://condescending-swirles-f9d8aa.netlify.app/
 
 ## Credits 
 
