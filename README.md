@@ -1,6 +1,6 @@
 # Groove It - An online Dance class website
 Groove It is a site offering online dance classes dedicated to learning,without pressure and for everyone. A complete and varied course that offers all disciplines for all ages and all levels.
-![Responsice Mockup]()
+![Responsice Mockup](https://github.com/titiksha3006/codeinstitute-usercentricproject/blob/master/assets/images/preview-grooveit.PNG)
 
 # Technologies Used
 ## Languages Used
@@ -66,7 +66,9 @@ After correcting all the above mentioned errors the validator returned below :
 The live link can be found here - https://romantic-goodall-5a18f8.netlify.app/
 
 ## Credits 
-
+ - CSS styling idea picked from [W3school](https://www.w3schools.com/)
+ - Coding ideas picked from codeinstitute tutorial of love running website-(Love Running-Responsive Elements)(https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/b47eaee24847486eb4424dfa29890cc0/)
+ 
 ### Content 
 
 - The text for the Services page was taken from Wikipedia.
